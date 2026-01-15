@@ -1,0 +1,104 @@
+Privacy Policy – App “Asculum”
+
+Ultimo aggiornamento: 15/01/2026
+
+La presente informativa descrive come vengono trattati i dati personali quando utilizzi l’app Asculum (di seguito, “App”).
+
+1) Titolare del trattamento
+
+Il Titolare del trattamento è:
+Liceo Classico “F. Stabili – E. Trebbiani” – Ascoli Piceno
+Sede: Viale Vellei, 10 – 63100 Ascoli Piceno (AP) – Italia
+Tel: 0736 259783
+E-mail: appc02000b@istruzione.it
+
+PEC: appc02000b@pec.istruzione.it
+
+2) Tipologie di dati trattati
+
+L’App non richiede registrazione e non raccoglie dati identificativi diretti (es. nome, cognome, email, numero di telefono).
+
+L’App tratta:
+
+a) Dati di geolocalizzazione
+La posizione (approssimativa o precisa, secondo le impostazioni del dispositivo) viene utilizzata per la funzione “visualizza i monumenti vicino a te”.
+
+b) Log tecnici minimizzati
+Per esigenze di gestione tecnica e sicurezza, il sistema può generare log contenenti informazioni relative alle richieste. In linea con la minimizzazione dei dati, tali log non includono l’indirizzo IP di origine né altri identificativi dell’utente.
+
+La posizione è trattata in modo da non essere associata a un’identità, a un account o a un profilo utente.
+
+3) Finalità del trattamento
+
+I dati sono trattati per:
+
+Erogare la funzionalità “monumenti vicino a te”, calcolando i punti di interesse più vicini e restituendo il risultato all’utente.
+
+Sicurezza e manutenzione dei sistemi, prevenzione abusi e gestione di eventuali malfunzionamenti.
+
+4) Base giuridica
+
+Geolocalizzazione: consenso dell’utente (art. 6, par. 1, lett. a GDPR), tramite permesso del dispositivo.
+
+Sicurezza/manutenzione e log tecnici minimizzati: legittimo interesse del Titolare (art. 6, par. 1, lett. f GDPR), limitato a quanto strettamente necessario.
+
+5) Modalità del trattamento
+
+La posizione viene trasmessa al server solo quando l’utente utilizza la funzione “visualizza i monumenti vicino a te”.
+
+Non viene creato alcun account e non vengono richiesti dati identificativi.
+
+Sono adottate misure di sicurezza adeguate (es. comunicazioni protette, controlli di accesso, misure di sicurezza del server).
+
+6) Conservazione
+
+Dati di geolocalizzazione nei log: possono essere conservati per 30 giorni esclusivamente per finalità tecniche e di sicurezza.
+Tali log sono progettati per non memorizzare o associare indirizzo IP di origine o altri dati identificativi dell’utente.
+
+Decorso tale termine, i log vengono cancellati o resi non più disponibili secondo le procedure tecniche adottate.
+
+7) Comunicazione dei dati e destinatari
+
+Il Titolare non vende né cede dati a terzi. Alcuni fornitori tecnici (es. hosting/manutenzione) possono trattare dati per conto del Titolare come Responsabili del trattamento (art. 28 GDPR), sulla base di accordi contrattuali.
+
+8) Servizi di terze parti – Google Maps
+
+L’App integra Google Maps per la visualizzazione delle mappe. L’utilizzo di Google Maps può comportare trattamenti di dati da parte di Google (es. dati tecnici come indirizzo IP, identificativi del dispositivo/app e, in base alle impostazioni, dati di posizione).
+
+Fornitore: Google LLC / Google Ireland Limited
+
+Ruolo: Google può operare come titolare autonomo per i trattamenti relativi al servizio di mappe.
+
+Informative Google:
+
+Google Privacy Policy: https://policies.google.com/privacy
+Dati di localizzazione: https://policies.google.com/technologies/location-data
+
+9) Trasferimenti extra UE
+
+L’uso di servizi Google può comportare trasferimenti verso Paesi fuori dallo SEE, secondo le garanzie indicate dal fornitore nelle proprie informative (es. clausole contrattuali standard e misure supplementari, ove applicabili).
+
+10) Diritti dell’utente
+
+Puoi esercitare i diritti previsti dagli artt. 15–22 GDPR contattando il Titolare ai recapiti indicati.
+Poiché l’App non prevede account e i dati sono trattati senza identificativi (es. senza IP nei log), il Titolare potrebbe non essere in grado di collegare una richiesta a dati specifici riferibili all’utente.
+
+Per i trattamenti effettuati direttamente da Google tramite Google Maps, l’esercizio dei diritti segue i canali indicati da Google.
+
+11) Gestione/revoca della geolocalizzazione
+
+Puoi revocare in qualsiasi momento i permessi di localizzazione:
+
+Android: Impostazioni → App → Asculum → Autorizzazioni → Posizione
+
+iOS: Impostazioni → Privacy e sicurezza → Localizzazione → Asculum
+
+Se disattivi la localizzazione, la funzione “monumenti vicino a te” potrebbe non essere disponibile.
+
+12) Reclamo al Garante
+
+Se ritieni che il trattamento violi la normativa, puoi proporre reclamo al Garante per la protezione dei dati personali.
+
+13) Modifiche
+
+La presente informativa può essere aggiornata. La data di “Ultimo aggiornamento” indica l’ultima revisione.
